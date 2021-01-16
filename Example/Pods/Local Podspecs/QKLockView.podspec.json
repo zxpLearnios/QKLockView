@@ -1,0 +1,22 @@
+{
+  "name": "QKLockView",
+  "version": "0.1.0",
+  "summary": "A short description of QKLockView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zxpLearnios/QKLockView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zxpLearnios": "1971730462@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zxpLearnios/QKLockView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "QKLockView/Classes/**/*"
+}

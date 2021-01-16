@@ -1,0 +1,6 @@
+framework module Pods_QKLockView_Tests {
+  umbrella header "Pods-QKLockView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

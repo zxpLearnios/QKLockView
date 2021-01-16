@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'QKLockView_Example' do
+  pod 'QKLockView', :path => '../'
+
+  target 'QKLockView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

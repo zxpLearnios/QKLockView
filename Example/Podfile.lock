@@ -1,0 +1,16 @@
+PODS:
+  - QKLockView (0.1.0)
+
+DEPENDENCIES:
+  - QKLockView (from `../`)
+
+EXTERNAL SOURCES:
+  QKLockView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QKLockView: a0e0de605e9e2fbf70a7b89c8e30967f90fe83ed
+
+PODFILE CHECKSUM: 60115c21c402607f89f96fbc4f8fb0666a49ce93
+
+COCOAPODS: 1.10.1
